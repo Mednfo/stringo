@@ -1,0 +1,2 @@
+# stringo
+string-pool-generator
